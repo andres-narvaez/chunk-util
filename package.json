@@ -1,0 +1,28 @@
+{
+  "name": "chunk-util",
+  "version": "1.0.0",
+  "description": "Split Arrays or Objects in smaller group of chunks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres-narvaez/chunk-util.git"
+  },
+  "keywords": [
+    "Array",
+    "Object",
+    "break",
+    "split",
+    "chunk",
+    "chunks",
+    "util"
+  ],
+  "author": "Andres Narvaez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andres-narvaez/chunk-util/issues"
+  },
+  "homepage": "https://github.com/andres-narvaez/chunk-util#readme"
+}
